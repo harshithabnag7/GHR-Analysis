@@ -13,4 +13,4 @@ Thanks to judges and mentors for valuable insights. 🌐
 Used tools like R, Python, Tableau, JMP, and Excel.
 
 We achieved first place 🥇 with teamwork and dedication. Shoutout to my teammate Rahul Kengeri 🙌 Grateful for the journey!
-Check out the details here: [Link](https://www.google.com](https://www.rit.edu/business/sites/rit.edu.business/files/2023-12/2023%20Business%20Analytics%20Competition%20-Round%201%20Presentation%20Results.pdf)https://www.rit.edu/business/sites/rit.edu.business/files/2023-12/2023%20Business%20Analytics%20Competition%20-Round%201%20Presentation%20Results.pdf)  👈
+Check out the details here: [Link](https://www.rit.edu/business/sites/rit.edu.business/files/2023-12/2023%20Business%20Analytics%20Competition%20-Round%201%20Presentation%20Results.pdf)  👈
