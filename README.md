@@ -11,7 +11,7 @@
 
 ### :chart_with_upwards_trend: **Project Overview:**
 
-#### Led Global Hotels project, applying analytics to enhance revenue management by analyzing key metrics; demonstrated data visualization proficiency with Python, Excel, and Tableau, securing 1st place through collaborative excellence.
+Led Global Hotels project, applying analytics to enhance revenue management by analyzing key metrics; demonstrated data visualization proficiency with Python, Excel, and Tableau, securing 1st place through collaborative excellence.
 
 ### 💡 **Key Insights:**
 
@@ -32,10 +32,10 @@ Presentation Link : [Presentation Link](GHR_HR_pdf.pdf)
 
 ### :lock: Conclusion: 
 
-#### The project recommends strategies to increase revenue for Global Hotels and Resorts (GHR).
+The project recommends strategies to increase revenue for Global Hotels and Resorts (GHR).
 
 ### 🥇 Achievement:
 
 
-#### We achieved first place 🥇 with teamwork and dedication in the 2024 SCB Business Analytics Competition Round 1! 🏆 Grateful to Rochester Institute of Technology for this opportunity. Shoutout to my teammate Rahul Kengeri 🙌 Grateful for the journey!
+We achieved first place 🥇 with teamwork and dedication in the 2024 SCB Business Analytics Competition Round 1! 🏆 Grateful to Rochester Institute of Technology for this opportunity. Shoutout to my teammate Rahul Kengeri 🙌 Grateful for the journey!
 Check out the details here: [Link](https://www.rit.edu/business/sites/rit.edu.business/files/2023-12/2023%20Business%20Analytics%20Competition%20-Round%201%20Presentation%20Results.pdf)  👈
