@@ -23,7 +23,7 @@ Presentation Link : [Presentation Link](GHR_HR_pdf.pdf)
  * Bookings tend to be closer to the arrival date, suggesting shorter planning periods.
  * Consider offering corporate discounts based on identified need.
 
-### 📚 Learning:
+### 📚 Learnings:
 
  * **Data Cleaning:** Conducted data cleaning, addressing data types, missing values, and duplicates; identified null values in "booking company" and "travel agent" columns, interpreting them as customers opting out; resolved Namibia's country code issue by setting keep_default_na=False.
  * **Data Transformation:** Transformed "Arrival Date" into datetime format, added "Arrival Month" column, calculated length of stay, and strategically segmented 'Market Segment' into 'Business' (Aviation, Corporate, Complementary) and 'Leisure' (Direct, Groups, Offline TA/TO, Online TA) for improved customer categorization.
