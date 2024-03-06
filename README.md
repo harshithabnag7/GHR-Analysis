@@ -15,7 +15,7 @@ Led Global Hotels project, applying analytics to enhance revenue management by a
 
 ### 💡 **Key Insights:**
 
-Presentation Link : [Presentation Link](GHR_HR_pdf.pdf)
+
 
  * Leisure customers outnumber business customers.
  * Travel Agencies/Tour Operators (TA/TO) are the preferred booking channel.
